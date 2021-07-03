@@ -1,6 +1,5 @@
 ### Hi there 👋
-## I am currently in development environment. Keep an eye on this profile
-
+## Currently in development
 <!--
 **AviatorIfeanyi/AviatorIfeanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
