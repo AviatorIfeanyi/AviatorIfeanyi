@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Ifeanyichukwu</h1> <br />
-<span align="center"><a href="https://aviatorifeanyi.github.io" target="blank">Website</a></span>
+<p align="center"><a href="https://aviatorifeanyi.github.io" target="blank">Website</a></p>
 <h3 align="center">Everyone loves to listen to a story. I tell mine with data. I love to explore data in order to make data driven decisions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviatorifeanyi&label=Profile%20views&color=0e75b6&style=flat" alt="aviatorifeanyi" /> </p>
