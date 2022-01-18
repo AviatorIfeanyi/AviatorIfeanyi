@@ -13,7 +13,7 @@
 
 - 📫 More about me **Love sharing my knowledge with data community, enjoys public speaking**
 
-- ⚡ Fun fact **Good sense of humour and jokes**
+- ⚡ Fun fact **When i am not analyzing data, or giving pep talks, I am Tailor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
