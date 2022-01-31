@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Gigs, Freelancing, Open Source Projects**
 
-- 💬 Ask me about **Python, Data Analytics, Power BI, Tableau**
+- 💬 Ask me about **Python, Data Analytics, Power BI, Tableau Story Telling**
 
 - 📫 More about me **Love sharing my knowledge with data community, enjoys public speaking**
 
