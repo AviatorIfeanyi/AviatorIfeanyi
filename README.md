@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviatorifeanyi&label=Profile%20views&color=0e75b6&style=flat" alt="aviatorifeanyi" /> </p>
 
-- 🌱 I’m currently learning **Tools that piques my intellectual curiousity**
+- 🌱 I’m currently learning **Tools that piques my curiousity**
 
 - 👯 I’m looking to collaborate with **Other Data Professionals**
 
 - 🤝 I’m looking for help with **Gigs, Freelancing, Open Source Projects**
 
-- 💬 Ask me about **Python, Data Analytics, Power BI, Tableau Story Telling**
+- 💬 Ask me about **Python, Data Analytics, Power BI, Story Telling**
 
 - 📫 More about me **Love sharing my knowledge with data community, enjoys public speaking**
 
-- ⚡ Fun fact **When i am not analyzing data, or giving pep talks, I am Tailor.**
+- ⚡ Fun fact **When i am not doing data stuff, I am Tailor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
